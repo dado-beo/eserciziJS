@@ -7,5 +7,4 @@ let libro = {
     }
 };
 
-// Esempio di utilizzo:
 console.log(libro.descrizione());
